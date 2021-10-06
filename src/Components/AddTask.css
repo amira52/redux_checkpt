@@ -1,0 +1,28 @@
+.form {
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d6ac0e13-698f-4b1c-860d-894c8137121d/dcgl2an-3cfa9e46-1079-4dd1-a3aa-87c23b534ccc.png/v1/fill/w_991,h_251,strp/to_do_list__heading__by_ursidaeangeni_dcgl2an-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjUxIiwicGF0aCI6IlwvZlwvZDZhYzBlMTMtNjk4Zi00YjFjLTg2MGQtODk0YzgxMzcxMjFkXC9kY2dsMmFuLTNjZmE5ZTQ2LTEwNzktNGRkMS1hM2FhLTg3YzIzYjUzNGNjYy5wbmciLCJ3aWR0aCI6Ijw9OTkxIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.yJgRUOI09maX5ejFn7BF78zE4KHdJIYfB8jL2I0O_yc");
+  background-repeat: no-repeat;
+  background-size: 45%;
+  padding: 80px;
+  display: flex;
+  flex-direction: column;
+}
+.input {
+  border-radius: 5px;
+  border-color: rgb(53, 49, 52);
+  width: 45%;
+  padding: 1%;
+  margin-left: 45%;
+  border-width: 4px;
+}
+.add {
+  background-color: rgb(14, 13, 13);
+  width: 5%;
+  border-radius: 6px;
+  border-width: 3px;
+  margin-left: 87%;
+  margin-top: 11px;
+  color: white;
+  border-color: thistle;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
